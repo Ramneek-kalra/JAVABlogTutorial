@@ -5,6 +5,6 @@ via this repository.<br/>
 So, I request all readers and followers of my Tutorial Series, just download the ZiP by cloning the Code or by Downloading the ZIP. You can follow below steps
 to import the project in Neteans IDE as shown below:</p><br/>
 <ul>
-  <li><a href="https://ramneeksite.files.wordpress.com/2018/06/import-project.png"></a></li>
+  <li><a href="import-project.png"></a></li>
 </ul>
   

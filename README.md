@@ -7,5 +7,5 @@ to import the project in Neteans IDE as shown below:</p><br/>
 
 <br/>
 After that, when you have successfully imported the project, you can edit it and do some more stuff with components given in palette Manager. Plus, after running the Project, you should be able to see output like below:<br/>
-![Project Output](https://ramneeksite.files.wordpress.com/2018/06/output.png)
+![Project Output(https://ramneeksite.files.wordpress.com/2018/06/output.png)]
   

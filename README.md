@@ -8,11 +8,4 @@ to import the project in Neteans IDE as shown below:</p><br/>
 ![Import Project](https://github.com/Ramneek-Kalra/JAVABlogTutorial/blob/master/Import%20Project.png)
 
 <br/>
-After that, when you have successfully imported the project, you can edit it and do some more stuff with components given in palette Manager. Plus, after running the Project, you should be able to see output like below:<br/><br/>
-
-![Output Window](https://github.com/Ramneek-Kalra/JAVABlogTutorial/blob/master/Output.png)
-
-<br/>
-
-
 ### After that, you can follow up your innovation in the code and be sure to follow on Blog Tutorial: https://ramneeksite.wordpress.com/2018/06/05/covering-the-basics-of-java-desktop-development-learnjava/

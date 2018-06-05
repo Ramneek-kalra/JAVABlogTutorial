@@ -5,6 +5,6 @@ via this repository.<br/>
 So, I request all readers and followers of my Tutorial Series, just download the ZiP by cloning the Code or by Downloading the ZIP. You can follow below steps
 to import the project in Neteans IDE as shown below:</p><br/>
 <ul>
-  <li><a href="import-project.png"></a></li>
+  <li><a href="https://github.com/Ramneek-kalra/JAVABlogTutorial/blob/master/Import%20Project.png"></a></li>
 </ul>
   
